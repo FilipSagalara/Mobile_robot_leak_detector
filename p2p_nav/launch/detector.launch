@@ -1,0 +1,11 @@
+<launch>
+
+
+	<node pkg="audio_pkg" type="audio_node.py" name="audio_node" output="screen"/>
+	<node pkg="rviz_tools" type="rviz_manager.py" name="rviz_manager"/>
+
+
+
+
+
+</launch>
