@@ -23,3 +23,6 @@
 
 ![8d090580-6c9f-11ea-8bdc-70fdb1acf0d5](https://user-images.githubusercontent.com/58272568/161957515-23ae4fbd-4c7f-4267-a11c-499c965d3a5b.png)
 
+
+
+![2560px-NumPy_logo_2020 svg](https://user-images.githubusercontent.com/58272568/161957881-aac1b3dc-5da6-4b59-8ba5-e4a280a60e33.png)
