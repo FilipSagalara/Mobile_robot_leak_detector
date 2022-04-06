@@ -48,10 +48,7 @@
 
 ## Effect
 
-
-![2560px-NumPy_logo_2020 svg](https://user-images.githubusercontent.com/58272568/161960383-31d08241-de22-4a55-9c63-1f04606237c1.png)
-
-
-Screenshot from Husarion Camera.
+![taskperformed (1)](https://user-images.githubusercontent.com/58272568/161960605-43be82d4-7918-4239-8aaa-668c0f6f68e2.png)
 
 
+Screenshot from husarion camera
