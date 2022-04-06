@@ -35,3 +35,5 @@
 
 
 ![goal_Aktiv](https://user-images.githubusercontent.com/58272568/161645410-861dbf30-7155-48cf-8716-8861566dddd2.png)
+![IMG_20220127_193718](https://user-images.githubusercontent.com/58272568/161936388-6c6ec3f9-e9eb-4d4b-92ed-2c48a0d273e3.jpg)
+![audio_chunk_filtered-removebg-preview](https://user-images.githubusercontent.com/58272568/161936712-61d007eb-24e0-4c90-ae2c-19fede3bc5ac.png)
