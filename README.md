@@ -46,3 +46,12 @@
 ![goal_Aktiv](https://user-images.githubusercontent.com/58272568/161959766-56036456-c914-44ae-9a95-7872324fd888.png)
 
 
+## Effect
+
+
+![2560px-NumPy_logo_2020 svg](https://user-images.githubusercontent.com/58272568/161960383-31d08241-de22-4a55-9c63-1f04606237c1.png)
+
+
+Screenshot from Husarion Camera.
+
+
