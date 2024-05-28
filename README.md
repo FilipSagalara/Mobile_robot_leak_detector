@@ -1,10 +1,14 @@
 > When i wrote this code only God and I knew how it works.
 > Now only God knows it.....
-
 # Mobile Leak Detector powered by ROS
 
+## Packages
+- **audio_pkg**: Handles audio processing tasks.
+- **p2p_nav**: Implements point-to-point navigation.
+- **rviz_tools**: Provides tools for RViz visualization.
+- **tutorial_pkg**: Contains tutorials for getting started.
 
-![IMG_20220127_193718](https://user-images.githubusercontent.com/58272568/161957126-bc7f56c8-b679-41e2-a183-a9b51d06206b.jpg)
+<img src="https://user-images.githubusercontent.com/58272568/161957126-bc7f56c8-b679-41e2-a183-a9b51d06206b.jpg" width="100" height="250">
 
 
 
@@ -50,5 +54,8 @@
 
 ![taskperformed (1)](https://user-images.githubusercontent.com/58272568/161960605-43be82d4-7918-4239-8aaa-668c0f6f68e2.png)
 
+## Important Notice
+
+**This code is designed to run on a specific machine configuration and may not be installable or functional on other systems.** The primary development and testing environment is described below. If you need to run this code on a different machine, you might need to make significant modifications.
 
 Screenshot from husarion camera
